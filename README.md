@@ -11,7 +11,7 @@
 <h3>&#x1F7E0 POST</h3>
   <p>/api/v1/coletas</p>
     <h5>Campos</h5>
-  <ul>nome - str</ul>
+  <ul>type - str</ul>
   <ul>daily - str</ul>
   <ul>destiny - str</ul>
   <ul>time - int</ul>
@@ -20,7 +20,7 @@
 <h3>&#x1F535 PUT</h3>
   <p>/api/v1/coletas</p>
   <h5>Campos</h5>
-  <ul>nome - str</ul>
+  <ul>type - str</ul>
   <ul>daily - str</ul>
   <ul>destiny - str</ul>
   <ul>time - int</ul>
