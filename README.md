@@ -1,5 +1,5 @@
 <h1><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />Coleta_Api</h1>
-<h2>CRUD feito com FastAPI e PostgreSQL <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></h2>
+<h2>Backend codificação em Python com FastAPI e PostgreSQL <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></h2>
 <hr>
 <h2>Rotas</h2>
   <h3>&#x1F7E2 GET</h3>
